@@ -1,0 +1,89 @@
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+body{
+        background-color: beige;
+
+}
+
+.bottom-nav {
+    
+    
+    
+    
+    background-color: darkgray;
+}
+
+.home{
+    
+    height: 800px;
+  background-image: url(../images/fitness/Schedule.jpg);
+    background-size: cover;
+}
+.home-cover{
+    background-color: rgba(0,0,0,0.4);
+}
+.home-content{
+   
+    
+   height: 100%;
+    width: 100%;
+  
+   
+    color: white;
+    
+    
+}
+.home-content span{
+    color: black;
+}
+.home .button1{
+    background-color:#ec3237  ;
+    padding: 10 25;
+    color: white;
+    border: none;
+    font-size: 16px;
+    padding: 
+    color: white;
+    
+}
+
+
+
+
+#more {display: none;}
+#more2 {display: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+.items {
+    
+    float: left;
+    list-style: none;
+    
+}
+
+.items a {
+    
+   padding-left: 10px;
+   
+    cursor: pointer;
+    
+}
+
+.icon{
+    
+    padding: 10px 15px;
+    background-color: white;
+    border: solid 1px;
+    font-size: 20px;
+    margin-right: 5px;
+    
+}
